@@ -32,7 +32,7 @@ dependencies {
     implementation 'com.azure:azure-identity:1.7.2'
 }
 ```
-
+Another change
 ### 1.2 Install via Maven
 
 Add the dependency in `dependencies` in pom.xml
