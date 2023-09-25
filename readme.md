@@ -4,6 +4,8 @@
 
 Get started with the Microsoft Graph Core SDK for Java by integrating the [Microsoft Graph API](https://developer.microsoft.com/en-us/graph/get-started/java) into your Java and Android application! You can also have a look at the [Javadoc](https://docs.microsoft.com/en-us/java/api/com.microsoft.graph.httpcore?view=graph-core-java)
 
+Change to dev branch
+
 ## Samples and usage guide
 
 - [Middleware usage](https://github.com/microsoftgraph/msgraph-sdk-design/)
