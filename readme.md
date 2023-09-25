@@ -2,6 +2,11 @@
 Change to dev branch
 [![Download](https://img.shields.io/maven-central/v/com.microsoft.graph/microsoft-graph-core.svg)](https://search.maven.org/artifact/com.microsoft.graph/microsoft-graph-core) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=microsoftgraph_msgraph-sdk-java-core&metric=coverage)](https://sonarcloud.io/dashboard?id=microsoftgraph_msgraph-sdk-java-core) [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=microsoftgraph_msgraph-sdk-java-core&metric=alert_status)](https://sonarcloud.io/dashboard?id=microsoftgraph_msgraph-sdk-java-core)
 
+
+Change to test branch
+
+
+
 Get started with the Microsoft Graph Core SDK for Java by integrating the [Microsoft Graph API](https://developer.microsoft.com/en-us/graph/get-started/java) into your Java and Android application! You can also have a look at the [Javadoc](https://docs.microsoft.com/en-us/java/api/com.microsoft.graph.httpcore?view=graph-core-java)
 
 ## Samples and usage guide
@@ -14,7 +19,7 @@ Get started with the Microsoft Graph Core SDK for Java by integrating the [Micro
 ### 1.1 Install via Gradle
 
 Add the repository and a compile dependency for `microsoft-graph-core` to your project's `build.gradle`:
-
+Change to test branch again
 ```groovy
 repositories {
     mavenCentral()
@@ -27,7 +32,7 @@ dependencies {
     implementation 'com.azure:azure-identity:1.7.2'
 }
 ```
-
+Another change
 ### 1.2 Install via Maven
 
 Add the dependency in `dependencies` in pom.xml
@@ -127,7 +132,7 @@ The Microsoft Graph SDK is open for contribution. To contribute to this project,
 ## 6. Supported Java versions
 
 The Microsoft Graph SDK for Java library is supported at runtime for Java 8 and [Android API revision 26](http://source.android.com/source/build-numbers.html) or greater.
-
+Made a change to test again
 
 ## 7. License
 
